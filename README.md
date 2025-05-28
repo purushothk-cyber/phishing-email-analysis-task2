@@ -3,7 +3,7 @@
 ## Objective
 This task aims to identify and analyze the characteristics of phishing in a suspicious email that pretends to be from Microsoft 365 Support. The purpose is to develop email threat detection skills and raise awareness about common phishing tactics.
 
-## 📨 Sample Phishing Email Overview
+## Sample Phishing Email Overview
 
 - **Email Display Name**: Microsoft 365 Support
 - **Sender Address**: support@office-365-notifications[.]com
