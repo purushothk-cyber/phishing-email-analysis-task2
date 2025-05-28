@@ -1,9 +1,9 @@
-# 📧 Phishing Email Analysis – Task 2
+# Phishing Email Analysis – Task 2
 
-## 📝 Task Objective
+## Task Objective
 To identify phishing indicators from a suspicious email that mimics Microsoft 365 and develop skills in email threat detection.
 
-## 📌 Sample Phishing Email Overview
+## Sample Phishing Email Overview
 
 - **Email Display Name**: Microsoft 365 Support
 - **Sender Address**: support@office-365-notifications[.]com
@@ -11,7 +11,7 @@ To identify phishing indicators from a suspicious email that mimics Microsoft 36
 - **Subject**: Security Alert – Recover Your Account
 - **Email Screenshot**: See attached image `phishing_microsoft_email.png`
 
-## 🔍 Phishing Indicators Identified
+## Phishing Indicators Identified
 
 ### 1. **Suspicious Sender Address**
 - The sender email `support@office-365-notifications[.]com` is **not** an official Microsoft domain.
@@ -36,12 +36,12 @@ To identify phishing indicators from a suspicious email that mimics Microsoft 36
 - This is **brand impersonation**, which is common in phishing.
 
 ### 6. **No Digital Signature or Header Info Provided**
-- Without an email header, we cannot confirm SPF/DKIM/DMARC status — usually a red flag in spoofed mails.
+- Without an email header, we cannot confirm SPF/DKIM/DMARC status — usually a red flag in spoofed emails.
 
-## 📷 Screenshot
+##  Screenshot
 ![Phishing Email Sample - Microsoft](phishing_microsoft_email.png)
 
-## ✅ Conclusion
+## Conclusion
 
 The email is **highly likely to be a phishing attempt** due to:
 - A suspicious domain
@@ -50,9 +50,9 @@ The email is **highly likely to be a phishing attempt** due to:
 - Generic addressing
 - Microsoft branding misuse
 
-> 🛡️ The user should **not click** the button, **report** the email to IT/security, and **delete** it immediately.
+> The user should **not click** the button, **report** the email to IT/security, and **delete** it immediately.
 
-## 🛠 Tools Used
+## Tools Used
 - Manual inspection of the email content and sender
 - Browser hover-check for suspicious URLs
 - Email format analysis (visual signs)
